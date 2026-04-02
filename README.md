@@ -1,3 +1,4 @@
+![Banner](banner.png)
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
 <h3 align="center">AI & Backend Developer | Building real-world systems 🚀</h3>
 
