@@ -49,3 +49,5 @@
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/rishav-kumar-2399241ab/
 - 📧 Email: rishavkumar.jeh@gmail.com
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=rishavgsv)
