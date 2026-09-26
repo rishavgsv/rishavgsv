@@ -1,8 +1,18 @@
 <div align="center">
 
-<img src="./assets/github-profile-hero.svg" width="100%" alt="Rishav Kumar — AI & Data Science Engineer">
+<a href="https://rishav.codes">
+  <img src="./hero.png" alt="AI-powered intelligent transportation and computer vision" width="100%">
+</a>
 
 <br><br>
+
+Rishav Kumar
+
+AI & Data Science Engineer · Computer Vision · Generative AI · Intelligent Transportation
+
+Building practical systems that connect AI, software, data and real-world infrastructure.
+
+<br>
 
 <a href="https://rishav.codes"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio"></a>
 <a href="https://github.com/rishavgsv"><img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"></a>
@@ -14,108 +24,108 @@
 
 <table align="center">
 <tr>
-<td align="center"><b>AI / ML</b><br>Computer Vision · Deep Learning</td>
-<td align="center"><b>GENAI</b><br>RAG · Retrieval · AI Agents</td>
-<td align="center"><b>ENGINEERING</b><br>Backend · Data · Automation</td>
-<td align="center"><b>DOMAIN</b><br>Railways · Transport · Logistics</td>
+<td align="center"><b>AI / ML</b><br><sub>Computer Vision · Deep Learning</sub></td>
+<td align="center"><b>GENAI</b><br><sub>RAG · Retrieval · AI Agents</sub></td>
+<td align="center"><b>ENGINEERING</b><br><sub>Backend · Data · Automation</sub></td>
+<td align="center"><b>DOMAIN</b><br><sub>Railways · Transport · Logistics</sub></td>
 </tr>
 </table>
 
----
+01 · Profile
 
-<h2>▸ Profile</h2>
+I’m a B.Tech Artificial Intelligence & Data Science student at Gati Shakti Vishwavidyalaya, working at the intersection of AI, software engineering, data and transportation technology.
 
-I’m a **B.Tech Artificial Intelligence & Data Science student at Gati Shakti Vishwavidyalaya**, building systems at the intersection of **AI, software engineering, data and transportation technology**.
+I like taking projects beyond a notebook — connecting data → intelligence → software → deployment.
 
-My focus is on taking an idea beyond a model or notebook — connecting **data → intelligence → software → deployment**.
+Build the model. Build the system. Make it useful.
 
-> **Build the model. Build the system. Make it useful.**
-
----
-
-<h2>▸ Engineering Stack</h2>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Artificial Intelligence
-`Python` `PyTorch` `OpenCV` `YOLO`  
-`Pandas` `Scikit-learn` `Statsmodels`  
-`Deep Learning` `Time Series` `Computer Vision`
-
-### Generative AI
-`GenAI` `RAG` `LangChain`  
-`Vector Search` `Semantic Retrieval`  
-`AI Agents` `Prompt Engineering`
-
-</td>
-<td valign="top" width="50%">
-
-### Software Engineering
-`React` `Next.js` `JavaScript`  
-`Tailwind CSS` `Flask` `Node.js`  
-`REST APIs` `Full Stack`
-
-### Data · Cloud · Automation
-`SQL` `PostgreSQL` `MySQL` `MongoDB`  
-`Power BI` `DAX` `Firebase` `Supabase`  
-`Vercel` `n8n` `Power Automate`
-
-</td>
-</tr>
-</table>
-
----
-
-<h2>▸ Featured Work</h2>
+02 · Engineering Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🚉 Crowd Monitoring
+Artificial Intelligence
 
-**Computer Vision · YOLOv8 · OpenCV**
+Python · PyTorch · OpenCV · YOLO
+Pandas · Scikit-learn · Statsmodels
+Deep Learning · Time Series · Computer Vision
+
+Generative AI
+
+GenAI · RAG · LangChain
+Vector Search · Semantic Retrieval
+AI Agents · Prompt Engineering
+
+</td>
+
+<td width="50%" valign="top">
+
+Software Engineering
+
+React · Next.js · JavaScript
+Tailwind CSS · Flask · Node.js
+REST APIs · Full Stack
+
+Data · Cloud · Automation
+
+SQL · PostgreSQL · MySQL · MongoDB
+Power BI · DAX · Firebase · Supabase
+Vercel · n8n · Power Automate
+
+</td>
+</tr>
+</table>
+
+03 · Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🚉 Crowd Monitoring at Railway Stations
+
+Computer Vision · YOLOv8 · OpenCV
 
 Railway-station video analytics focused on platforms, foot-over bridges and entry/exit zones.
 
-**Technical focus**
+Technical focus
 
-- YOLOv8-based person detection
-- ROI masking for overlapping viewpoints
-- Dense-scene / density-estimation concepts
-- Real-world crowd monitoring
+YOLOv8-based person detection
 
-**Evaluation**  
-`91.1% Precision` · `89.4% Recall` · `95.9% mAP@0.50`
+ROI masking for overlapping viewpoints
 
-**Presented at**  
-IRC 2025 · IREE 2025
+Dense-scene / density-estimation concepts
+
+Real-world crowd monitoring
+
+Evaluation
+
+91.1% Precision · 89.4% Recall · 95.9% mAP@0.50
+
+Presented at: IRC 2025 · IREE 2025
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧭 D² — Drishyam Darshanam
+🧭 D² — Drishyam Darshanam
 
-**AI · Retrieval · Community · Travel Tech**
+AI · Retrieval · Community · Travel Tech
 
-A community-first tourism discovery platform focused on helping travelers discover **lesser-known destinations, local experiences and cultural assets**.
+A community-first tourism discovery platform focused on helping travelers discover lesser-known destinations, local experiences and cultural assets.
 
-```text
 DISCOVERY
-    ↓
+   ↓
 CONTEXT
-    ↓
+   ↓
 AI / RETRIEVAL
-    ↓
+   ↓
 TRUST
-    ↓
+   ↓
 COMMUNITY
-    ↓
+   ↓
 EXPERIENCE
-```
 
 Being developed as a technology product rather than simply a content website.
 
@@ -125,101 +135,106 @@ Being developed as a technology product rather than simply a content website.
 <tr>
 <td width="50%" valign="top">
 
-## 🛤️ Railway Track Monitoring
+🛤️ Intelligent Railway Track Monitoring
 
-**Computer Vision · OCR · Data Engineering**
+Computer Vision · OCR · Data Engineering
 
 A railway inspection intelligence platform combining structured inspection data with visual defect analysis.
 
-- Excel / DOCX / PDF / scanned sources
-- OCR-assisted extraction
-- Cleaning & deduplication
-- Computer-vision defect detection
+Excel / DOCX / PDF / scanned sources
+
+OCR-assisted extraction
+
+Cleaning & deduplication
+
+Computer-vision defect detection
 
 </td>
 
 <td width="50%" valign="top">
 
-## ⚙️ Applied Systems
+⚙️ Applied Systems
 
-**Full Stack · Data · Automation**
+Full Stack · Data · Automation
 
 Additional work includes:
 
-- Mess Feedback & Operations Platform
-- Complaint Management System
-- Inventory Management System
-- AI / automation experiments
+Mess Feedback & Operations Platform
+
+Complaint Management System
+
+Inventory Management System
+
+AI / automation experiments
 
 </td>
 </tr>
 </table>
 
----
-
-<h2>▸ Industry Experience</h2>
+04 · Industry Experience
 
 <table>
 <tr>
 <td width="27%" valign="top">
 
-### Siemens
-**Data Visualization & Analytics Intern**
+Siemens
+
+Data Visualization & Analytics Intern
 
 </td>
+
 <td valign="top">
 
-Worked across **Data Visualization & Analytics, Platform Engineering and Testing**.
+Worked across Data Visualization & Analytics, Platform Engineering and Testing.
 
-`Spotfire → Power BI` · dashboard/reporting workflows · validation/testing · enterprise automation · engineering processes
+Spotfire → Power BI · dashboard/reporting workflows · validation/testing · enterprise automation · engineering processes
 
 </td>
 </tr>
 </table>
 
----
-
-<h2>▸ Research & Achievements</h2>
+05 · Research & Achievements
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 Competitions
+🏆 Competitions
 
-- **Winner — GSV Hackathon / WhyBe'26**
-- **Runner-up — AI/ML Hackathon**
-- **Winner — AI Poster Generation Competition, Epitome'24**
+Winner — GSV Hackathon / WhyBe'26
+
+Runner-up — AI/ML Hackathon
+
+Winner — AI Poster Generation Competition, Epitome'24
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🎤 Research / Presentations
+🎤 Research / Presentations
 
-- Crowd Monitoring at **IRC 2025 & IREE 2025**
-- Research presentation at **NIT Jalandhar**
-- *Accident Analysis in Railway: Determining Their Causes and Preventive Measures*
+Crowd Monitoring at IRC 2025 & IREE 2025
+
+Research presentation at NIT Jalandhar
+
+Accident Analysis in Railway: Determining Their Causes and Preventive Measures
 
 </td>
 </tr>
 </table>
 
----
+06 · Leadership
 
-<h2>▸ Leadership</h2>
-
-**Vice President — Student Cell**  
+Vice President — Student Cell
 Gati Shakti Vishwavidyalaya · AY 2026–27
 
-**TechnoCrats — Technical Club**  
+TechnoCrats — Technical Club
 Leadership and coordination across programming, technical events and student initiatives.
 
-**Epitome — Technical Fest**  
+Epitome — Technical Fest
 Programming-domain coordination and technical-event execution.
 
----
-
-<h2>▸ How I Think About Systems</h2>
+07 · How I Think About Systems
 
 <table align="center">
 <tr>
@@ -237,40 +252,35 @@ Programming-domain coordination and technical-event execution.
 
 <div align="center">
 
-`Computer Vision` · `Generative AI` · `Data Engineering` · `Backend` · `Automation` · `Transportation`
+Computer Vision · Generative AI · Data Engineering · Backend · Automation · Transportation
 
 </div>
 
----
-
-<h2>▸ Current Focus</h2>
+08 · Current Focus
 
 <div align="center">
 
-**Production-oriented GenAI** · **RAG systems** · **AI Agents** · **Advanced Computer Vision**  
-**Data Engineering** · **Intelligent Transportation** · **Supply Chain Intelligence**
+Production-oriented GenAI · RAG systems · AI Agents · Advanced Computer Vision
+
+Data Engineering · Intelligent Transportation · Supply Chain Intelligence
 
 </div>
 
----
-
-<h2>▸ GitHub Activity</h2>
+09 · Explore My Work
 
 <div align="center">
 
 <a href="https://github.com/rishavgsv?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore repositories">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View all repositories">
 </a>
 
-<br><br>
+<br>
 
-<sub>Selected repositories are pinned on my GitHub profile.</sub>
+<sub>My strongest projects are pinned on my GitHub profile.</sub>
 
 </div>
 
----
-
-<h2>▸ Connect</h2>
+10 · Connect
 
 <div align="center">
 
