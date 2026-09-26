@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-label="Rishav Kumar — AI and Data Science Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="55%" stop-color="#0b1630"/>
+      <stop offset="100%" stop-color="#07111f"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" x2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+
+  <rect width="1600" height="520" fill="url(#bg)"/>
+
+  <!-- Ambient glows -->
+  <circle cx="1260" cy="120" r="220" fill="url(#glow)" filter="url(#blur)"/>
+  <circle cx="420" cy="440" r="260" fill="#7c3aed" opacity=".10" filter="url(#blur)"/>
+
+  <!-- Grid -->
+  <g opacity=".12" stroke="#93c5fd" stroke-width="1">
+    <path d="M0 80H1600M0 160H1600M0 240H1600M0 320H1600M0 400H1600M0 480H1600"/>
+    <path d="M100 0V520M220 0V520M340 0V520M460 0V520M580 0V520M700 0V520M820 0V520M940 0V520M1060 0V520M1180 0V520M1300 0V520M1420 0V520M1540 0V520"/>
+  </g>
+
+  <!-- Network -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M920 180 C1060 80, 1210 100, 1340 54 S1510 90, 1590 18" stroke="url(#violet)" stroke-width="3" opacity=".75"/>
+    <path d="M860 230 C1020 170, 1100 240, 1240 196 S1450 160, 1595 220" stroke="url(#cyan)" stroke-width="2" opacity=".72"/>
+    <path d="M940 340 C1080 280, 1140 370, 1290 318 S1460 360, 1600 300" stroke="url(#cyan)" stroke-width="2" opacity=".6"/>
+    <path d="M1080 100 L1180 180 L1290 118 L1400 230 L1515 135" stroke="#60a5fa" stroke-width="1.6" opacity=".35"/>
+  </g>
+
+  <!-- Nodes -->
+  <g fill="#60a5fa">
+    <circle cx="1180" cy="180" r="5"/><circle cx="1290" cy="118" r="5"/>
+    <circle cx="1400" cy="230" r="5"/><circle cx="1515" cy="135" r="5"/>
+    <circle cx="1240" cy="196" r="5"/><circle cx="1450" cy="160" r="5"/>
+  </g>
+  <g fill="#c084fc">
+    <circle cx="1340" cy="54" r="4"/><circle cx="1590" cy="18" r="4"/>
+    <circle cx="1290" cy="318" r="4"/><circle cx="1460" cy="360" r="4"/>
+  </g>
+
+  <!-- Stylized rail line -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M760 470 C930 420, 1040 445, 1170 392 S1430 380, 1600 430" stroke="#0f172a" stroke-width="18"/>
+    <path d="M760 470 C930 420, 1040 445, 1170 392 S1430 380, 1600 430" stroke="url(#cyan)" stroke-width="3"/>
+    <path d="M760 492 C930 442, 1040 467, 1170 414 S1430 402, 1600 452" stroke="#1e293b" stroke-width="3"/>
+    <g stroke="#475569" stroke-width="3" opacity=".75">
+      <path d="M860 448L868 488"/><path d="M960 430L968 468"/>
+      <path d="M1060 430L1068 460"/><path d="M1160 408L1168 442"/>
+      <path d="M1260 398L1268 432"/><path d="M1360 394L1368 424"/>
+      <path d="M1460 402L1468 434"/><path d="M1560 420L1568 452"/>
+    </g>
+  </g>
+
+  <!-- Abstract train -->
+  <g transform="translate(1120 330)">
+    <rect x="0" y="0" width="320" height="88" rx="20" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+    <path d="M320 18 L348 42 L320 66 Z" fill="#16243c" stroke="#38bdf8" stroke-width="2"/>
+    <rect x="24" y="18" width="74" height="38" rx="7" fill="#172554" stroke="#60a5fa" stroke-width="1.5"/>
+    <rect x="112" y="18" width="74" height="38" rx="7" fill="#172554" stroke="#60a5fa" stroke-width="1.5"/>
+    <rect x="200" y="18" width="74" height="38" rx="7" fill="#172554" stroke="#60a5fa" stroke-width="1.5"/>
+    <circle cx="50" cy="82" r="9" fill="#020617" stroke="#64748b" stroke-width="3"/>
+    <circle cx="286" cy="82" r="9" fill="#020617" stroke="#64748b" stroke-width="3"/>
+    <path d="M36 65H292" stroke="#22d3ee" stroke-width="3" opacity=".8"/>
+  </g>
+
+  <!-- Left copy -->
+  <text x="92" y="125" fill="#7dd3fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="4">RISHAV KUMAR</text>
+  <text x="92" y="205" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="800">AI &amp; DATA SCIENCE</text>
+  <text x="92" y="258" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="800">ENGINEER</text>
+  <rect x="94" y="286" width="430" height="2" fill="url(#cyan)"/>
+  <text x="92" y="330" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Computer Vision · GenAI · Data · Intelligent Transportation</text>
+  <text x="92" y="368" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Building practical systems that connect models, software and real-world infrastructure.</text>
+
+  <!-- Small code chips -->
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">
+    <rect x="92" y="408" width="104" height="34" rx="17" fill="#0f172a" stroke="#334155"/>
+    <text x="144" y="430" text-anchor="middle" fill="#7dd3fc">YOLO / CV</text>
+    <rect x="208" y="408" width="92" height="34" rx="17" fill="#0f172a" stroke="#334155"/>
+    <text x="254" y="430" text-anchor="middle" fill="#c4b5fd">RAG / AI</text>
+    <rect x="312" y="408" width="91" height="34" rx="17" fill="#0f172a" stroke="#334155"/>
+    <text x="357" y="430" text-anchor="middle" fill="#93c5fd">POWER BI</text>
+  </g>
+</svg>
